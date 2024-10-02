@@ -1,4 +1,4 @@
-repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
+repo init -u https://github.com/ResurrectionRemix-Revived/manifest.git -b Q --git-lfs
 git clone https://github.com/imnathanzero/android_device_oppo_CPH1923 --depth 1 -b lineage device/oppo/CPH1923
 git clone https://github.com/imnathanzero/android_kernel_oppo_CPH1923 --depth 1 -b pie kernel/oppo/CPH1923
 git clone https://github.com/imnathanzero/android_vendor_oppo_CPH1923 --depth 1 -b p vendor/oppo/CPH1923
