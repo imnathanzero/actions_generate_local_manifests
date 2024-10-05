@@ -1,0 +1,4 @@
+repo init -u https://github.com/Havoc-OS-Revived/android_manifest.git -b eleven --git-lfs
+git clone https://github.com/nathannxx/android_device_realme_RMX1941-Q.git --depth 1 -b ya device/realme/RMX1941
+git clone https://github.com/nathannxx/android_kernel_realme_RMX1941.git --depth 1 -b Q-rebase kernel/realme/RMX1941
+git clone https://github.com/Realme-C2/android_vendor_realme_RMX1941 --depth 1 -b eleven vendor/realme/RMX1941
