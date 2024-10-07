@@ -1,5 +1,5 @@
 repo init -u https://github.com/LineageOS/android.git -b lineage-19.1 --git-lfs
-git clone https://github.com/imnathanzero/android_device_realme_RMX1941.git --depth 1 -b lineage-19.1 device/realme/RMX1941
+git clone https://github.com/imnathanzero/device_realme_RMX1941.git --depth 1 -b lineage device/realme/RMX1941
 git clone https://github.com/imnathanzero/android_kernel_realme_RMX1941 --depth 1 -b android-10.0 kernel/realme/RMX1941
 git clone https://github.com/imnathanzero/vendor_realme_RMX1941.git --depth 1 -b twelve-L vendor/realme/RMX1941
 git clone https://github.com/imnathanzero/android_vendor_realme_RMX1941-ims.git --depth 1 -b twelve vendor/realme/RMX1941-ims
