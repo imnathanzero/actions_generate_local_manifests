@@ -9,4 +9,3 @@ git clone https://github.com/ArrowOS/android_device_mediatek_sepolicy_vndr.git -
 git clone https://github.com/P-SalikAlt/platform_system_bpf.git --depth 1 -b android-13.0.0_r35 system/bpf 
 git clone https://gitlab.com/tejas101k/clang-r450784d.git --depth 1 -b master prebuilts/clang/host/linux-x86/clang-r450784d 
 git clone https://github.com/P-SalikAlt/android_frameworks_av-lineage --depth 1 -b lineage-20.0 frameworks/av 
-git clone https://github.com/P-SalikAlt/android_packages_modules_Bluetooth-lineage.git --depth 1 -b lineage-20.0 packages/modules/Bluetooth
