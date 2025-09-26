@@ -1,0 +1,2 @@
+repo init -u https://github.com/los-nx/android.git -b lineage-22.2 --git-lfs
+rm -rf hardware/lineage/compat
